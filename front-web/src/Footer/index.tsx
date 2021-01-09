@@ -6,7 +6,7 @@ import { ReactComponent as LinkedinIcon} from './linkedin.svg';
 function Footer() {
     return (
         <footer className="main-footer">
-            App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
+            App desenvolvido durante a 2ª ed. do evento Semana DevSuperior <br/> <strong>ANTONIO MARTINS</strong>
             <div className="footer-icons">
                 <a href="https://www.youtube.com/c/DevSuperior" target="_new">
                     <YoutubeIcon />
